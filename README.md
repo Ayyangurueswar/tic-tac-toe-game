@@ -1,6 +1,6 @@
-# tic-tac-toe-game
+# Tic-tac-toe-game
 A simple tic tac toe game.
-Technologies used:
+## Technologies used:
 1. JavaScript
 2. React.js
 3. Css
