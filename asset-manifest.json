@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ayyangurueswar/tic-tac-toe-game/static/css/main.d2fdb5be.css",
+    "main.js": "/Ayyangurueswar/tic-tac-toe-game/static/js/main.5094bb59.js",
+    "static/js/565.983b5f10.chunk.js": "/Ayyangurueswar/tic-tac-toe-game/static/js/565.983b5f10.chunk.js",
+    "index.html": "/Ayyangurueswar/tic-tac-toe-game/index.html",
+    "main.d2fdb5be.css.map": "/Ayyangurueswar/tic-tac-toe-game/static/css/main.d2fdb5be.css.map",
+    "main.5094bb59.js.map": "/Ayyangurueswar/tic-tac-toe-game/static/js/main.5094bb59.js.map",
+    "565.983b5f10.chunk.js.map": "/Ayyangurueswar/tic-tac-toe-game/static/js/565.983b5f10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2fdb5be.css",
+    "static/js/main.5094bb59.js"
+  ]
+}
