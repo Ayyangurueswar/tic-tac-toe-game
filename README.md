@@ -1,7 +1,6 @@
-# Tic-tac-toe-game
-A simple tic tac toe game.
-## Technologies used:
-1. JavaScript
-2. React.js
-3. Css
-4. HTML
+# Tic-Tac-Toe Game
+
+A simple tic-tac-toe game createed using ReactJs.
+## Features:
+1. Travel back in time to any previous moves.
+2. Sort the moves in ascending or descending order.
